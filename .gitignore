@@ -2,3 +2,5 @@
 *.bat
 *.mas
 *.gif
+*.o
+ent
